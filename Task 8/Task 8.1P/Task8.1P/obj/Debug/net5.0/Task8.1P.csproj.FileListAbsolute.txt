@@ -1,0 +1,32 @@
+C:\Users\bigst\OneDrive\Desktop\Task8.1P\Task8.1P\bin\Debug\net5.0\Task8.1P.exe
+C:\Users\bigst\OneDrive\Desktop\Task8.1P\Task8.1P\bin\Debug\net5.0\Task8.1P.deps.json
+C:\Users\bigst\OneDrive\Desktop\Task8.1P\Task8.1P\bin\Debug\net5.0\Task8.1P.runtimeconfig.json
+C:\Users\bigst\OneDrive\Desktop\Task8.1P\Task8.1P\bin\Debug\net5.0\Task8.1P.runtimeconfig.dev.json
+C:\Users\bigst\OneDrive\Desktop\Task8.1P\Task8.1P\bin\Debug\net5.0\Task8.1P.dll
+C:\Users\bigst\OneDrive\Desktop\Task8.1P\Task8.1P\bin\Debug\net5.0\ref\Task8.1P.dll
+C:\Users\bigst\OneDrive\Desktop\Task8.1P\Task8.1P\bin\Debug\net5.0\Task8.1P.pdb
+C:\Users\bigst\OneDrive\Desktop\Task8.1P\Task8.1P\obj\Debug\net5.0\Task8.1P.csproj.AssemblyReference.cache
+C:\Users\bigst\OneDrive\Desktop\Task8.1P\Task8.1P\obj\Debug\net5.0\Task8.1P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigst\OneDrive\Desktop\Task8.1P\Task8.1P\obj\Debug\net5.0\Task8.1P.AssemblyInfoInputs.cache
+C:\Users\bigst\OneDrive\Desktop\Task8.1P\Task8.1P\obj\Debug\net5.0\Task8.1P.AssemblyInfo.cs
+C:\Users\bigst\OneDrive\Desktop\Task8.1P\Task8.1P\obj\Debug\net5.0\Task8.1P.csproj.CoreCompileInputs.cache
+C:\Users\bigst\OneDrive\Desktop\Task8.1P\Task8.1P\obj\Debug\net5.0\Task8.1P.dll
+C:\Users\bigst\OneDrive\Desktop\Task8.1P\Task8.1P\obj\Debug\net5.0\ref\Task8.1P.dll
+C:\Users\bigst\OneDrive\Desktop\Task8.1P\Task8.1P\obj\Debug\net5.0\Task8.1P.pdb
+C:\Users\bigst\OneDrive\Desktop\Task8.1P\Task8.1P\obj\Debug\net5.0\Task8.1P.genruntimeconfig.cache
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 8\Task 8.1P\Task8.1P\bin\Debug\net5.0\Task8.1P.exe
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 8\Task 8.1P\Task8.1P\bin\Debug\net5.0\Task8.1P.deps.json
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 8\Task 8.1P\Task8.1P\bin\Debug\net5.0\Task8.1P.runtimeconfig.json
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 8\Task 8.1P\Task8.1P\bin\Debug\net5.0\Task8.1P.runtimeconfig.dev.json
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 8\Task 8.1P\Task8.1P\bin\Debug\net5.0\Task8.1P.dll
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 8\Task 8.1P\Task8.1P\bin\Debug\net5.0\ref\Task8.1P.dll
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 8\Task 8.1P\Task8.1P\bin\Debug\net5.0\Task8.1P.pdb
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 8\Task 8.1P\Task8.1P\obj\Debug\net5.0\Task8.1P.csproj.AssemblyReference.cache
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 8\Task 8.1P\Task8.1P\obj\Debug\net5.0\Task8.1P.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 8\Task 8.1P\Task8.1P\obj\Debug\net5.0\Task8.1P.AssemblyInfoInputs.cache
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 8\Task 8.1P\Task8.1P\obj\Debug\net5.0\Task8.1P.AssemblyInfo.cs
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 8\Task 8.1P\Task8.1P\obj\Debug\net5.0\Task8.1P.csproj.CoreCompileInputs.cache
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 8\Task 8.1P\Task8.1P\obj\Debug\net5.0\Task8.1P.dll
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 8\Task 8.1P\Task8.1P\obj\Debug\net5.0\ref\Task8.1P.dll
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 8\Task 8.1P\Task8.1P\obj\Debug\net5.0\Task8.1P.pdb
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 8\Task 8.1P\Task8.1P\obj\Debug\net5.0\Task8.1P.genruntimeconfig.cache

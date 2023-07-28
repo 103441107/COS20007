@@ -1,0 +1,48 @@
+C:\Users\bigst\OneDrive\Desktop\ShapeDrawer\ShapeDrawer\bin\Debug\net5.0\ShapeDrawer.exe
+C:\Users\bigst\OneDrive\Desktop\ShapeDrawer\ShapeDrawer\bin\Debug\net5.0\ShapeDrawer.deps.json
+C:\Users\bigst\OneDrive\Desktop\ShapeDrawer\ShapeDrawer\bin\Debug\net5.0\ShapeDrawer.runtimeconfig.json
+C:\Users\bigst\OneDrive\Desktop\ShapeDrawer\ShapeDrawer\bin\Debug\net5.0\ShapeDrawer.runtimeconfig.dev.json
+C:\Users\bigst\OneDrive\Desktop\ShapeDrawer\ShapeDrawer\bin\Debug\net5.0\ShapeDrawer.dll
+C:\Users\bigst\OneDrive\Desktop\ShapeDrawer\ShapeDrawer\bin\Debug\net5.0\ref\ShapeDrawer.dll
+C:\Users\bigst\OneDrive\Desktop\ShapeDrawer\ShapeDrawer\bin\Debug\net5.0\ShapeDrawer.pdb
+C:\Users\bigst\OneDrive\Desktop\ShapeDrawer\ShapeDrawer\obj\Debug\net5.0\ShapeDrawer.csproj.AssemblyReference.cache
+C:\Users\bigst\OneDrive\Desktop\ShapeDrawer\ShapeDrawer\obj\Debug\net5.0\ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigst\OneDrive\Desktop\ShapeDrawer\ShapeDrawer\obj\Debug\net5.0\ShapeDrawer.AssemblyInfoInputs.cache
+C:\Users\bigst\OneDrive\Desktop\ShapeDrawer\ShapeDrawer\obj\Debug\net5.0\ShapeDrawer.AssemblyInfo.cs
+C:\Users\bigst\OneDrive\Desktop\ShapeDrawer\ShapeDrawer\obj\Debug\net5.0\ShapeDrawer.csproj.CoreCompileInputs.cache
+C:\Users\bigst\OneDrive\Desktop\ShapeDrawer\ShapeDrawer\obj\Debug\net5.0\ShapeDrawer.dll
+C:\Users\bigst\OneDrive\Desktop\ShapeDrawer\ShapeDrawer\obj\Debug\net5.0\ref\ShapeDrawer.dll
+C:\Users\bigst\OneDrive\Desktop\ShapeDrawer\ShapeDrawer\obj\Debug\net5.0\ShapeDrawer.pdb
+C:\Users\bigst\OneDrive\Desktop\ShapeDrawer\ShapeDrawer\obj\Debug\net5.0\ShapeDrawer.genruntimeconfig.cache
+C:\Users\bigst\OneDrive\Desktop\3.1P\ShapeDrawer\bin\Debug\net5.0\ShapeDrawer.exe
+C:\Users\bigst\OneDrive\Desktop\3.1P\ShapeDrawer\bin\Debug\net5.0\ShapeDrawer.deps.json
+C:\Users\bigst\OneDrive\Desktop\3.1P\ShapeDrawer\bin\Debug\net5.0\ShapeDrawer.runtimeconfig.json
+C:\Users\bigst\OneDrive\Desktop\3.1P\ShapeDrawer\bin\Debug\net5.0\ShapeDrawer.runtimeconfig.dev.json
+C:\Users\bigst\OneDrive\Desktop\3.1P\ShapeDrawer\bin\Debug\net5.0\ShapeDrawer.dll
+C:\Users\bigst\OneDrive\Desktop\3.1P\ShapeDrawer\bin\Debug\net5.0\ref\ShapeDrawer.dll
+C:\Users\bigst\OneDrive\Desktop\3.1P\ShapeDrawer\bin\Debug\net5.0\ShapeDrawer.pdb
+C:\Users\bigst\OneDrive\Desktop\3.1P\ShapeDrawer\obj\Debug\net5.0\ShapeDrawer.csproj.AssemblyReference.cache
+C:\Users\bigst\OneDrive\Desktop\3.1P\ShapeDrawer\obj\Debug\net5.0\ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigst\OneDrive\Desktop\3.1P\ShapeDrawer\obj\Debug\net5.0\ShapeDrawer.AssemblyInfoInputs.cache
+C:\Users\bigst\OneDrive\Desktop\3.1P\ShapeDrawer\obj\Debug\net5.0\ShapeDrawer.AssemblyInfo.cs
+C:\Users\bigst\OneDrive\Desktop\3.1P\ShapeDrawer\obj\Debug\net5.0\ShapeDrawer.csproj.CoreCompileInputs.cache
+C:\Users\bigst\OneDrive\Desktop\3.1P\ShapeDrawer\obj\Debug\net5.0\ShapeDrawer.dll
+C:\Users\bigst\OneDrive\Desktop\3.1P\ShapeDrawer\obj\Debug\net5.0\ref\ShapeDrawer.dll
+C:\Users\bigst\OneDrive\Desktop\3.1P\ShapeDrawer\obj\Debug\net5.0\ShapeDrawer.pdb
+C:\Users\bigst\OneDrive\Desktop\3.1P\ShapeDrawer\obj\Debug\net5.0\ShapeDrawer.genruntimeconfig.cache
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 3\3.1P\ShapeDrawer\bin\Debug\net5.0\ShapeDrawer.exe
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 3\3.1P\ShapeDrawer\bin\Debug\net5.0\ShapeDrawer.deps.json
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 3\3.1P\ShapeDrawer\bin\Debug\net5.0\ShapeDrawer.runtimeconfig.json
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 3\3.1P\ShapeDrawer\bin\Debug\net5.0\ShapeDrawer.runtimeconfig.dev.json
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 3\3.1P\ShapeDrawer\bin\Debug\net5.0\ShapeDrawer.dll
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 3\3.1P\ShapeDrawer\bin\Debug\net5.0\ref\ShapeDrawer.dll
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 3\3.1P\ShapeDrawer\bin\Debug\net5.0\ShapeDrawer.pdb
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 3\3.1P\ShapeDrawer\obj\Debug\net5.0\ShapeDrawer.csproj.AssemblyReference.cache
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 3\3.1P\ShapeDrawer\obj\Debug\net5.0\ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 3\3.1P\ShapeDrawer\obj\Debug\net5.0\ShapeDrawer.AssemblyInfoInputs.cache
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 3\3.1P\ShapeDrawer\obj\Debug\net5.0\ShapeDrawer.AssemblyInfo.cs
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 3\3.1P\ShapeDrawer\obj\Debug\net5.0\ShapeDrawer.csproj.CoreCompileInputs.cache
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 3\3.1P\ShapeDrawer\obj\Debug\net5.0\ShapeDrawer.dll
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 3\3.1P\ShapeDrawer\obj\Debug\net5.0\ref\ShapeDrawer.dll
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 3\3.1P\ShapeDrawer\obj\Debug\net5.0\ShapeDrawer.pdb
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 3\3.1P\ShapeDrawer\obj\Debug\net5.0\ShapeDrawer.genruntimeconfig.cache

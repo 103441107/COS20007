@@ -1,0 +1,16 @@
+C:\Users\bigst\OneDrive\Desktop\6.1C\Iteration56\Iteration56\bin\Debug\net5.0\Iteration56.exe
+C:\Users\bigst\OneDrive\Desktop\6.1C\Iteration56\Iteration56\bin\Debug\net5.0\Iteration56.deps.json
+C:\Users\bigst\OneDrive\Desktop\6.1C\Iteration56\Iteration56\bin\Debug\net5.0\Iteration56.runtimeconfig.json
+C:\Users\bigst\OneDrive\Desktop\6.1C\Iteration56\Iteration56\bin\Debug\net5.0\Iteration56.runtimeconfig.dev.json
+C:\Users\bigst\OneDrive\Desktop\6.1C\Iteration56\Iteration56\bin\Debug\net5.0\Iteration56.dll
+C:\Users\bigst\OneDrive\Desktop\6.1C\Iteration56\Iteration56\bin\Debug\net5.0\ref\Iteration56.dll
+C:\Users\bigst\OneDrive\Desktop\6.1C\Iteration56\Iteration56\bin\Debug\net5.0\Iteration56.pdb
+C:\Users\bigst\OneDrive\Desktop\6.1C\Iteration56\Iteration56\obj\Debug\net5.0\Iteration56.csproj.AssemblyReference.cache
+C:\Users\bigst\OneDrive\Desktop\6.1C\Iteration56\Iteration56\obj\Debug\net5.0\Iteration56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigst\OneDrive\Desktop\6.1C\Iteration56\Iteration56\obj\Debug\net5.0\Iteration56.AssemblyInfoInputs.cache
+C:\Users\bigst\OneDrive\Desktop\6.1C\Iteration56\Iteration56\obj\Debug\net5.0\Iteration56.AssemblyInfo.cs
+C:\Users\bigst\OneDrive\Desktop\6.1C\Iteration56\Iteration56\obj\Debug\net5.0\Iteration56.csproj.CoreCompileInputs.cache
+C:\Users\bigst\OneDrive\Desktop\6.1C\Iteration56\Iteration56\obj\Debug\net5.0\Iteration56.dll
+C:\Users\bigst\OneDrive\Desktop\6.1C\Iteration56\Iteration56\obj\Debug\net5.0\ref\Iteration56.dll
+C:\Users\bigst\OneDrive\Desktop\6.1C\Iteration56\Iteration56\obj\Debug\net5.0\Iteration56.pdb
+C:\Users\bigst\OneDrive\Desktop\6.1C\Iteration56\Iteration56\obj\Debug\net5.0\Iteration56.genruntimeconfig.cache

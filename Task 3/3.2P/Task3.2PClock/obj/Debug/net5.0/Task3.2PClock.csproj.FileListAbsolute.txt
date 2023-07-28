@@ -1,0 +1,16 @@
+C:\Users\bigst\OneDrive\Desktop\Task3.2PClock\Task3.2PClock\bin\Debug\net5.0\Task3.2PClock.exe
+C:\Users\bigst\OneDrive\Desktop\Task3.2PClock\Task3.2PClock\bin\Debug\net5.0\Task3.2PClock.deps.json
+C:\Users\bigst\OneDrive\Desktop\Task3.2PClock\Task3.2PClock\bin\Debug\net5.0\Task3.2PClock.runtimeconfig.json
+C:\Users\bigst\OneDrive\Desktop\Task3.2PClock\Task3.2PClock\bin\Debug\net5.0\Task3.2PClock.runtimeconfig.dev.json
+C:\Users\bigst\OneDrive\Desktop\Task3.2PClock\Task3.2PClock\bin\Debug\net5.0\Task3.2PClock.dll
+C:\Users\bigst\OneDrive\Desktop\Task3.2PClock\Task3.2PClock\bin\Debug\net5.0\ref\Task3.2PClock.dll
+C:\Users\bigst\OneDrive\Desktop\Task3.2PClock\Task3.2PClock\bin\Debug\net5.0\Task3.2PClock.pdb
+C:\Users\bigst\OneDrive\Desktop\Task3.2PClock\Task3.2PClock\obj\Debug\net5.0\Task3.2PClock.csproj.AssemblyReference.cache
+C:\Users\bigst\OneDrive\Desktop\Task3.2PClock\Task3.2PClock\obj\Debug\net5.0\Task3.2PClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigst\OneDrive\Desktop\Task3.2PClock\Task3.2PClock\obj\Debug\net5.0\Task3.2PClock.AssemblyInfoInputs.cache
+C:\Users\bigst\OneDrive\Desktop\Task3.2PClock\Task3.2PClock\obj\Debug\net5.0\Task3.2PClock.AssemblyInfo.cs
+C:\Users\bigst\OneDrive\Desktop\Task3.2PClock\Task3.2PClock\obj\Debug\net5.0\Task3.2PClock.csproj.CoreCompileInputs.cache
+C:\Users\bigst\OneDrive\Desktop\Task3.2PClock\Task3.2PClock\obj\Debug\net5.0\Task3.2PClock.dll
+C:\Users\bigst\OneDrive\Desktop\Task3.2PClock\Task3.2PClock\obj\Debug\net5.0\ref\Task3.2PClock.dll
+C:\Users\bigst\OneDrive\Desktop\Task3.2PClock\Task3.2PClock\obj\Debug\net5.0\Task3.2PClock.pdb
+C:\Users\bigst\OneDrive\Desktop\Task3.2PClock\Task3.2PClock\obj\Debug\net5.0\Task3.2PClock.genruntimeconfig.cache

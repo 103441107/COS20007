@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Study\\SwinburneVN\\IT Major\\COS20007\\Assignment\\Task 3\\3.2P\\TestClock\\TestClock.csproj": {}
+  },
+  "projects": {
+    "D:\\Study\\SwinburneVN\\IT Major\\COS20007\\Assignment\\Task 3\\3.2P\\Task3.2PClock\\Task3.2PClock.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\SwinburneVN\\IT Major\\COS20007\\Assignment\\Task 3\\3.2P\\Task3.2PClock\\Task3.2PClock.csproj",
+        "projectName": "Task3.2PClock",
+        "projectPath": "D:\\Study\\SwinburneVN\\IT Major\\COS20007\\Assignment\\Task 3\\3.2P\\Task3.2PClock\\Task3.2PClock.csproj",
+        "packagesPath": "C:\\Users\\bigst\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\SwinburneVN\\IT Major\\COS20007\\Assignment\\Task 3\\3.2P\\Task3.2PClock\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bigst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\SwinburneVN\\IT Major\\COS20007\\Assignment\\Task 3\\3.2P\\TestClock\\TestClock.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\SwinburneVN\\IT Major\\COS20007\\Assignment\\Task 3\\3.2P\\TestClock\\TestClock.csproj",
+        "projectName": "TestClock",
+        "projectPath": "D:\\Study\\SwinburneVN\\IT Major\\COS20007\\Assignment\\Task 3\\3.2P\\TestClock\\TestClock.csproj",
+        "packagesPath": "C:\\Users\\bigst\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\SwinburneVN\\IT Major\\COS20007\\Assignment\\Task 3\\3.2P\\TestClock\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bigst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Study\\SwinburneVN\\IT Major\\COS20007\\Assignment\\Task 3\\3.2P\\Task3.2PClock\\Task3.2PClock.csproj": {
+                "projectPath": "D:\\Study\\SwinburneVN\\IT Major\\COS20007\\Assignment\\Task 3\\3.2P\\Task3.2PClock\\Task3.2PClock.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

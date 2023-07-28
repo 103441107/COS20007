@@ -1,0 +1,14 @@
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 1\1.1P\bin\Debug\netcoreapp3.1\HelloWorld.exe
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 1\1.1P\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 1\1.1P\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 1\1.1P\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 1\1.1P\bin\Debug\netcoreapp3.1\HelloWorld.dll
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 1\1.1P\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 1\1.1P\obj\Debug\netcoreapp3.1\HelloWorld.csproj.AssemblyReference.cache
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 1\1.1P\obj\Debug\netcoreapp3.1\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 1\1.1P\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 1\1.1P\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 1\1.1P\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 1\1.1P\obj\Debug\netcoreapp3.1\HelloWorld.dll
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 1\1.1P\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\Study\SwinburneVN\IT Major\COS20007\Assignment\Task 1\1.1P\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache

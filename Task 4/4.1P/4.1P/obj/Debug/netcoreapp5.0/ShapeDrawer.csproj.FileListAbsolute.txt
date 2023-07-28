@@ -1,0 +1,48 @@
+C:\Users\HP\Desktop\COS20007-main\PassTask4.1\bin\Debug\netcoreapp5.0\ShapeDrawer.exe
+C:\Users\HP\Desktop\COS20007-main\PassTask4.1\bin\Debug\netcoreapp5.0\ShapeDrawer.deps.json
+C:\Users\HP\Desktop\COS20007-main\PassTask4.1\bin\Debug\netcoreapp5.0\ShapeDrawer.runtimeconfig.json
+C:\Users\HP\Desktop\COS20007-main\PassTask4.1\bin\Debug\netcoreapp5.0\ShapeDrawer.runtimeconfig.dev.json
+C:\Users\HP\Desktop\COS20007-main\PassTask4.1\bin\Debug\netcoreapp5.0\ShapeDrawer.dll
+C:\Users\HP\Desktop\COS20007-main\PassTask4.1\bin\Debug\netcoreapp5.0\ref\ShapeDrawer.dll
+C:\Users\HP\Desktop\COS20007-main\PassTask4.1\bin\Debug\netcoreapp5.0\ShapeDrawer.pdb
+C:\Users\HP\Desktop\COS20007-main\PassTask4.1\obj\Debug\netcoreapp5.0\ShapeDrawer.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\COS20007-main\PassTask4.1\obj\Debug\netcoreapp5.0\ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\COS20007-main\PassTask4.1\obj\Debug\netcoreapp5.0\ShapeDrawer.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\COS20007-main\PassTask4.1\obj\Debug\netcoreapp5.0\ShapeDrawer.AssemblyInfo.cs
+C:\Users\HP\Desktop\COS20007-main\PassTask4.1\obj\Debug\netcoreapp5.0\ShapeDrawer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\COS20007-main\PassTask4.1\obj\Debug\netcoreapp5.0\ShapeDrawer.dll
+C:\Users\HP\Desktop\COS20007-main\PassTask4.1\obj\Debug\netcoreapp5.0\ref\ShapeDrawer.dll
+C:\Users\HP\Desktop\COS20007-main\PassTask4.1\obj\Debug\netcoreapp5.0\ShapeDrawer.pdb
+C:\Users\HP\Desktop\COS20007-main\PassTask4.1\obj\Debug\netcoreapp5.0\ShapeDrawer.genruntimeconfig.cache
+C:\Users\bigst\Downloads\file cua tu\PassTask4.1\bin\Debug\netcoreapp5.0\ShapeDrawer.exe
+C:\Users\bigst\Downloads\file cua tu\PassTask4.1\bin\Debug\netcoreapp5.0\ShapeDrawer.deps.json
+C:\Users\bigst\Downloads\file cua tu\PassTask4.1\bin\Debug\netcoreapp5.0\ShapeDrawer.runtimeconfig.json
+C:\Users\bigst\Downloads\file cua tu\PassTask4.1\bin\Debug\netcoreapp5.0\ShapeDrawer.runtimeconfig.dev.json
+C:\Users\bigst\Downloads\file cua tu\PassTask4.1\bin\Debug\netcoreapp5.0\ShapeDrawer.dll
+C:\Users\bigst\Downloads\file cua tu\PassTask4.1\bin\Debug\netcoreapp5.0\ref\ShapeDrawer.dll
+C:\Users\bigst\Downloads\file cua tu\PassTask4.1\bin\Debug\netcoreapp5.0\ShapeDrawer.pdb
+C:\Users\bigst\Downloads\file cua tu\PassTask4.1\obj\Debug\netcoreapp5.0\ShapeDrawer.csproj.AssemblyReference.cache
+C:\Users\bigst\Downloads\file cua tu\PassTask4.1\obj\Debug\netcoreapp5.0\ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigst\Downloads\file cua tu\PassTask4.1\obj\Debug\netcoreapp5.0\ShapeDrawer.AssemblyInfoInputs.cache
+C:\Users\bigst\Downloads\file cua tu\PassTask4.1\obj\Debug\netcoreapp5.0\ShapeDrawer.AssemblyInfo.cs
+C:\Users\bigst\Downloads\file cua tu\PassTask4.1\obj\Debug\netcoreapp5.0\ShapeDrawer.csproj.CoreCompileInputs.cache
+C:\Users\bigst\Downloads\file cua tu\PassTask4.1\obj\Debug\netcoreapp5.0\ShapeDrawer.dll
+C:\Users\bigst\Downloads\file cua tu\PassTask4.1\obj\Debug\netcoreapp5.0\ref\ShapeDrawer.dll
+C:\Users\bigst\Downloads\file cua tu\PassTask4.1\obj\Debug\netcoreapp5.0\ShapeDrawer.pdb
+C:\Users\bigst\Downloads\file cua tu\PassTask4.1\obj\Debug\netcoreapp5.0\ShapeDrawer.genruntimeconfig.cache
+C:\Users\bigst\OneDrive\Desktop\4.1P\PassTask4.1\bin\Debug\netcoreapp5.0\ShapeDrawer.exe
+C:\Users\bigst\OneDrive\Desktop\4.1P\PassTask4.1\bin\Debug\netcoreapp5.0\ShapeDrawer.deps.json
+C:\Users\bigst\OneDrive\Desktop\4.1P\PassTask4.1\bin\Debug\netcoreapp5.0\ShapeDrawer.runtimeconfig.json
+C:\Users\bigst\OneDrive\Desktop\4.1P\PassTask4.1\bin\Debug\netcoreapp5.0\ShapeDrawer.runtimeconfig.dev.json
+C:\Users\bigst\OneDrive\Desktop\4.1P\PassTask4.1\bin\Debug\netcoreapp5.0\ShapeDrawer.dll
+C:\Users\bigst\OneDrive\Desktop\4.1P\PassTask4.1\bin\Debug\netcoreapp5.0\ref\ShapeDrawer.dll
+C:\Users\bigst\OneDrive\Desktop\4.1P\PassTask4.1\bin\Debug\netcoreapp5.0\ShapeDrawer.pdb
+C:\Users\bigst\OneDrive\Desktop\4.1P\PassTask4.1\obj\Debug\netcoreapp5.0\ShapeDrawer.csproj.AssemblyReference.cache
+C:\Users\bigst\OneDrive\Desktop\4.1P\PassTask4.1\obj\Debug\netcoreapp5.0\ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigst\OneDrive\Desktop\4.1P\PassTask4.1\obj\Debug\netcoreapp5.0\ShapeDrawer.AssemblyInfoInputs.cache
+C:\Users\bigst\OneDrive\Desktop\4.1P\PassTask4.1\obj\Debug\netcoreapp5.0\ShapeDrawer.AssemblyInfo.cs
+C:\Users\bigst\OneDrive\Desktop\4.1P\PassTask4.1\obj\Debug\netcoreapp5.0\ShapeDrawer.csproj.CoreCompileInputs.cache
+C:\Users\bigst\OneDrive\Desktop\4.1P\PassTask4.1\obj\Debug\netcoreapp5.0\ShapeDrawer.dll
+C:\Users\bigst\OneDrive\Desktop\4.1P\PassTask4.1\obj\Debug\netcoreapp5.0\ref\ShapeDrawer.dll
+C:\Users\bigst\OneDrive\Desktop\4.1P\PassTask4.1\obj\Debug\netcoreapp5.0\ShapeDrawer.pdb
+C:\Users\bigst\OneDrive\Desktop\4.1P\PassTask4.1\obj\Debug\netcoreapp5.0\ShapeDrawer.genruntimeconfig.cache
